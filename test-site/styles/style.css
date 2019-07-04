@@ -1,0 +1,22 @@
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+p,li{
+    font-size: 30px;
+    text-align: center;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+html{
+    background-color: #a0918c;
+}
+body{
+    margin: 0 auto;
+    background-color: #ff9f7c;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    border: 5px solid #25688a
+}
